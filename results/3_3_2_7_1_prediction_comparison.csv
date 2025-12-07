@@ -1,0 +1,7 @@
+TargetUser,Item,Rating_Part1,SimilarityType_x,ClusterID_x,Rating_Part2,SimilarityType_y,ClusterID_y,Diff
+A1ER5AYS3FQ9O3,B007C0Y8R2,3.5,Similarity,1,5.0,DiscountedSimilarity,4,-1.5
+A1ER5AYS3FQ9O3,B0057OCDQS,4.5,Similarity,1,5.0,DiscountedSimilarity,4,-0.5
+A1ER5AYS3FQ9O3,B007BCIJP8,5.0,Similarity,1,5.0,DiscountedSimilarity,4,0.0
+A1ER5AYS3FQ9O3,B004I5BUSO,5.0,Similarity,1,5.0,DiscountedSimilarity,4,0.0
+A1ER5AYS3FQ9O3,B00BNWZYCS,5.0,Similarity,1,3.0,DiscountedSimilarity,4,2.0
+A1ER5AYS3FQ9O3,B0076POASA,3.5,Similarity,1,5.0,DiscountedSimilarity,4,-1.5
