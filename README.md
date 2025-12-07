@@ -97,7 +97,24 @@ The project relies on standard Python data science libraries.
 
 See `requirements.txt` for the list.
 
+
+And you can also make **How to Run** a bit clearer like this:
+
+```md
 ## How to Run
-1.  Ensure the dataset `Electronics.csv` is placed in the `dataset/` directory (or update paths accordingly).
-2.  Install dependencies.
-3.  Run the notebooks in the order presented to reproduce the analysis and results.
+1. Ensure the dataset `Electronics.csv` is placed in the `dataset/` directory (or update paths accordingly).
+2. Create a virtual environment (optional but recommended):
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate      # On Linux/Mac
+    venv\Scripts\activate         # On Windows
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Run the notebooks in the order presented to reproduce the analysis and results.
