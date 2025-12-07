@@ -98,9 +98,6 @@ The project relies on standard Python data science libraries.
 See `requirements.txt` for the list.
 
 
-And you can also make **How to Run** a bit clearer like this:
-
-```md
 ## How to Run
 1. Ensure the dataset `Electronics.csv` is placed in the `dataset/` directory (or update paths accordingly).
 2. Create a virtual environment (optional but recommended):
